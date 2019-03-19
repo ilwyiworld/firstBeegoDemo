@@ -1,0 +1,7 @@
+{
+  "dev":{
+    "appname":"firstBeegoDemo",
+    "runmode":"dev",
+    "httpport":81
+  }
+}
